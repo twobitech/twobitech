@@ -1,6 +1,6 @@
 # TwoBiTech
 
-### Software Development Team focused on AI-powered solutions
+### Software Development Team
 
 We are **TwoBiTech**, a software development team building practical software solutions with **Artificial Intelligence** as one of our core areas of expertise.
 
