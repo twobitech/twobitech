@@ -1,16 +1,31 @@
-## Hi there 👋
+# TwoBiTech
 
-<!--
-**twobitech/twobitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Team focused on AI-powered solutions
 
-Here are some ideas to get you started:
+We are **TwoBiTech**, a software development team building practical software solutions with **Artificial Intelligence** as one of our core areas of expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our work focuses on:
+
+* 🤖 Artificial Intelligence
+* 👁️ Computer Vision
+* 🔤 OCR & Document Intelligence
+* 🧠 Machine Learning
+* 🖥️ AI-powered Software
+* 🔬 Research & Development
+
+We combine **software engineering and AI** to turn ideas and real-world problems into practical software products.
+
+### Explore TwoBiTech
+
+🌐 **Website**
+https://twobitech.com
+
+💻 **GitHub Organization**
+https://github.com/TwoBiTech-team
+
+🔗 **LinkedIn**
+https://www.linkedin.com/in/twobitech-team/
+
+---
+
+**Software Development · Artificial Intelligence · Computer Vision · OCR · Machine Learning**
