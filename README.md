@@ -26,6 +26,9 @@ https://github.com/TwoBiTech-team
 🔗 **LinkedIn**
 https://www.linkedin.com/in/twobitech-team/
 
+📧 **Email**
+[twobitech.team@gmail.com](mailto:twobitech.team@gmail.com)
+
 ---
 
 **Software Development · Artificial Intelligence · Computer Vision · OCR · Machine Learning**
